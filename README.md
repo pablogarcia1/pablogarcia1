@@ -19,4 +19,4 @@ I'm an Electronic Engineering graduate deeply engaged in Data Science and Artifi
 * **Backend & Deployment:** FastAPI, building autonomous ML systems architecture.
 * **Domain Passion - Finance:** Highly passionate about Quantitative Finance. Experienced with advanced backtesting, Monte Carlo simulations, financial metrics (Sharpe, drawdowns), and rigorous validation techniques (purging/embargo) to prevent data leakage.
 
-⚡ **Fun fact:** When I'm not training models, you can probably find me training as a hybrid athlete—running (chasing that sub-20 5k!), swimming, or hitting the gym.
+⚡ **Fun fact:** When I'm not training models, you can probably find me training/running (chasing that sub-20 5k!), swimming, or hitting the gym.
