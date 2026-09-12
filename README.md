@@ -1,4 +1,4 @@
-Hi, I'm Jose Pablo! 👋
+I'm Jose Pablo! 
 
 I'm an Electronic Engineering graduate deeply engaged in Data Science and Artificial Intelligence. Beyond just code, my focus is on **curiosity-driven problem solving, data storytelling, and creating tangible business impact.** I specialize in building autonomous, end-to-end machine learning solutions that are as useful as they are technically robust.
 
@@ -12,6 +12,7 @@ I'm an Electronic Engineering graduate deeply engaged in Data Science and Artifi
 **Programming Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Pyspark]
 
 * **Data Science & ML:** Pandas, Scikit-Learn, XGBoost, Random Forest, Inferential Statistics.
 * **Deep Learning:** TensorFlow, CNNs, ResNets, Transformers, RNNs, GANs.
