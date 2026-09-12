@@ -12,7 +12,7 @@ I'm an Electronic Engineering graduate deeply engaged in Data Science and Artifi
 **Programming Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Pyspark]
+![Pyspark](https://img.shields.io/badge/pyspark-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 * **Data Science & ML:** Pandas, Scikit-Learn, XGBoost, Random Forest, Inferential Statistics.
 * **Deep Learning:** TensorFlow, CNNs, ResNets, Transformers, RNNs, GANs.
